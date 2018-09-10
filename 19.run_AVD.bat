@@ -1,0 +1,1 @@
+C:\Users\shuangh\AppData\Local\Android\sdk\tools\emulator.exe -avd Nexus_7_API_23 -sdcard C:\Users\shuangh\.android\avd\Nexus_7_API_23.avd\sdcard.img

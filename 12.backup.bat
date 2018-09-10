@@ -1,0 +1,1 @@
+adb pull /system/priv-app/denali/denali.apk .

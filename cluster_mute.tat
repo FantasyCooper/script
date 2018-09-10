@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2018-01-03" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="com.telenav" />
+    <filter enabled="y" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="updateAndShow show!!" />
+    <filter enabled="y" excluding="n" description="" backColor="008000" type="matches_text" case_sensitive="n" regex="n" text="Screen  : show" />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="y" text="updateLabelwidget" />
+    <filter enabled="y" excluding="n" description="" backColor="008000" type="matches_text" case_sensitive="n" regex="n" text="ListWidget" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="AbstractScreen: invoke updateScreen" />
+    <filter enabled="n" excluding="n" description="" backColor="9400d3" type="matches_text" case_sensitive="n" regex="n" text="start flow flow info:" />
+    <filter enabled="n" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="MainActivity" />
+    <filter enabled="n" excluding="n" description="" backColor="f08080" type="matches_text" case_sensitive="n" regex="n" text="template ID" />
+    <filter enabled="n" excluding="n" description="" backColor="008000" type="matches_text" case_sensitive="n" regex="y" text="5835.*vertical offset" />
+    <filter enabled="n" excluding="n" description="" backColor="ffff00" type="matches_text" case_sensitive="n" regex="y" text="6896.*recent" />
+    <filter enabled="n" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="y" text="12620.*recent" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="acquire" />
+    <filter enabled="n" excluding="n" description="" backColor="dcdcdc" type="matches_text" case_sensitive="n" regex="n" text="release" />
+    <filter enabled="n" excluding="n" description="" backColor="afeeee" type="matches_text" case_sensitive="n" regex="n" text="start flow flow info:" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="7414" />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="vehicle mode is " />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="5400.*horizontal offset" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="getMapWidth  :" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="click go item, isGoEnable:" />
+    <filter enabled="n" excluding="n" description="" foreColor="006400" backColor="d3d3d3" type="matches_text" case_sensitive="n" regex="n" text="set horizontal offset :" />
+    <filter enabled="n" excluding="n" description="" backColor="ffff00" type="matches_text" case_sensitive="n" regex="n" text="horizontal offset changed to" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="show region for routes" />
+    <filter enabled="n" excluding="n" description="" backColor="008000" type="matches_text" case_sensitive="n" regex="y" text="/data/user.*com.telenav" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="erase" />
+    <filter enabled="n" excluding="n" description="" backColor="008000" type="matches_text" case_sensitive="n" regex="y" text="P13N.*telenav" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa07a" type="matches_text" case_sensitive="n" regex="n" text="TBT" />
+    <filter enabled="n" excluding="n" description="" backColor="7fffd4" type="matches_text" case_sensitive="n" regex="n" text="recentprovider" />
+    <filter enabled="n" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="UIspeechService" />
+    <filter enabled="n" excluding="y" description="" type="matches_text" case_sensitive="n" regex="n" text="traffic" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="searchResponse status:" />
+    <filter enabled="n" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="SearchResult" />
+    <filter enabled="n" excluding="n" description="" backColor="ffff00" type="matches_text" case_sensitive="n" regex="n" text="overLay" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="I-75" />
+    <filter enabled="n" excluding="n" description="" backColor="dcdcdc" type="matches_text" case_sensitive="n" regex="n" text="viewID" />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="M-15" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="setImage id: " />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="ExitNumber: " />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="nextStreetName: " />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="display Type: " />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="Clintonville Rd" />
+    <filter enabled="n" excluding="n" description="" backColor="afeeee" type="matches_text" case_sensitive="n" regex="n" text="viewID" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="templateID=187" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="requestVideoFocus" />
+    <filter enabled="n" excluding="n" description="" backColor="ffff00" type="matches_text" case_sensitive="n" regex="n" text="DenaliClusterService onStartCommand:" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="release focus" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="y" regex="n" text="RTP" />
+    <filter enabled="n" excluding="n" description="" backColor="7fffd4" type="matches_text" case_sensitive="n" regex="n" text="position" />
+    <filter enabled="n" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="start navigation" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="update turn icon for segment:" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="setImage, id:" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="viewID" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="isHudPresentation" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="displayInfo" />
+    <filter enabled="y" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="c2_17_v20" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="onAppSelected" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="add screen: " />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="pop Screen:" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="templateid=" />
+    <filter enabled="n" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="setImage, id:" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="setImage  id:" />
+    <filter enabled="n" excluding="n" description="" backColor="ff0000" type="matches_text" case_sensitive="n" regex="n" text="image1648214794" />
+  </filters>
+</TextAnalysisTool.NET>
