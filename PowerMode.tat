@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2018-01-03" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="y" excluding="n" description="" foreColor="800000" type="matches_text" case_sensitive="n" regex="n" text="SystemPowerMode: SysPwrMd:" />
+    <filter enabled="y" excluding="n" description="" foreColor="808000" type="matches_text" case_sensitive="n" regex="n" text="Vehicle PowerMode Changed:" />
+    <filter enabled="y" excluding="n" description="" foreColor="800080" type="matches_text" case_sensitive="n" regex="n" text="SystemStateMonitor: " />
+    <filter enabled="y" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="System power state changed from:" />
+  </filters>
+</TextAnalysisTool.NET>

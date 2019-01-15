@@ -1,0 +1,1 @@
+subst w: C:\hmi-common\NavHome

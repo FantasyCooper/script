@@ -19,7 +19,7 @@ adb shell rm -rf /system/priv-app/denali/oat
 adb shell rm -rf /data/data/com.telenav.app.denali.na/
 adb shell rm /data/dalvik-cache/x86_64/system@priv-app@denali@denali.apk@classes.dex
 adb push ./denali.apk /system/priv-app/denali/
-timeout 5
+
 jar xvf denali.apk lib\
 adb push ./lib/x86_64/libAutoSDKJNI.so /system/lib64/
 adb push ./lib/x86_64/libGLEngineJNI.so /system/lib64/

@@ -1,0 +1,1 @@
+PowerShell.exe Invoke-Command -ComputerName shuangh-x230.telenav.com -ScriptBlock { python C:\script\python_project\DownloadBuild\DownloadBuild.py }
