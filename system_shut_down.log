@@ -1,0 +1,18 @@
+--------- beginning of kpi
+10-30 23:44:52.734  1960  2223 E KPI-BOOT|: Animation going to execute event: HIDE_ANIMATION at |100420394 
+10-30 23:56:43.185  1960  2223 E KPI-BOOT|: Animation going to execute event: SHOW_SHUTDOWN_ANIM at |101130844 
+--------- beginning of radio
+10-30 23:56:58.250 10640 10640 D BluetoothCommands: Unbinding HFService... Adapter state = 13
+10-30 23:57:35.142  1960  2223 E KPI-BOOT|: Animation going to execute event: HIDE_ANIMATION at |101182802 
+10-30 23:57:35.150  3120  3120 E KPI-AUDIO|: restoreAudioLastMode in SystemUI at|101182809
+10-30 23:57:35.230 10575 10601 E KPI-BT| : Adapter enable  at|101182889
+10-30 23:57:36.554 10640 10640 D BluetoothCommands: Binding HFService...
+10-30 23:57:36.557 10640 10640 D BluetoothCommands: HFService proxy connected
+10-30 23:57:42.983  1960  2223 E KPI-BOOT|: Animation going to execute event: HIDE_ANIMATION at |101190643 
+--------- beginning of main
+10-31 01:17:21.353  2183  2212 I lvds_device: I2C read data :0x02 size : 1
+10-31 01:17:21.359  2237  2677 I chatty  : uid=0(root) amfmMain expire 296 lines
+10-31 01:17:21.418 10860 10766 I chatty  : uid=10025(com.telenav.app.denali.na) Thread-254 expire 60 lines
+10-31 01:17:21.418 10860 10838 I chatty  : uid=10025(com.telenav.app.denali.na) pool-24-thread- expire 44 lines
+10-31 01:17:21.419 10860 10808 I chatty  : uid=10025(com.telenav.app.denali.na) pool-23-thread- expire 114 lines
+read: unexpected EOF!
