@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<TextAnalysisTool.NET version="2018-01-03" showOnlyFilteredLines="True">
+<TextAnalysisTool.NET version="2018-11-20" showOnlyFilteredLines="True">
   <filters>
     <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="com.telenav" />
     <filter enabled="y" excluding="n" description="" backColor="ff0000" type="matches_text" case_sensitive="n" regex="n" text="vehicle mode is " />
     <filter enabled="y" excluding="n" description="" foreColor="ff00ff" type="matches_text" case_sensitive="n" regex="n" text="showOverlay" />
     <filter enabled="y" excluding="n" description="" backColor="008000" type="matches_text" case_sensitive="n" regex="n" text="Screen  : show" />
     <filter enabled="n" excluding="n" description="" foreColor="800000" type="matches_text" case_sensitive="n" regex="n" text="maneuverInfo turn type:" />
-    <filter enabled="n" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="updateAndShow show!!" />
+    <filter enabled="y" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="DenaliClusterService onCreate with process id:" />
     <filter enabled="y" excluding="n" description="" foreColor="800080" type="matches_text" case_sensitive="n" regex="n" text="DenaliClusterService: onAppSelected" />
     <filter enabled="y" excluding="n" description="" foreColor="daa520" type="matches_text" case_sensitive="n" regex="n" text="DenaliClusterService: onAppUnselected" />
     <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="y" text="updateLabelwidget" />
@@ -16,9 +16,9 @@
     <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="AbstractScreen: invoke updateScreen" />
     <filter enabled="n" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="MainActivity" />
     <filter enabled="n" excluding="n" description="" backColor="f08080" type="matches_text" case_sensitive="n" regex="n" text="template ID" />
-    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="acquire" />
-    <filter enabled="n" excluding="n" description="" backColor="dcdcdc" type="matches_text" case_sensitive="n" regex="n" text="release" />
-    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="27061" />
+    <filter enabled="y" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="com.gm.nav.cluster.ACQUIRE" />
+    <filter enabled="y" excluding="n" description="" backColor="dcdcdc" type="matches_text" case_sensitive="n" regex="n" text="com.gm.nav.cluster.RELEASE" />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="SERVICE_READY" />
     <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="getMapWidth  :" />
     <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="click go item, isGoEnable:" />
     <filter enabled="n" excluding="n" description="" foreColor="006400" backColor="d3d3d3" type="matches_text" case_sensitive="n" regex="n" text="set horizontal offset :" />

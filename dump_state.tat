@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2018-11-20" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="com.telenav" />
+    <filter enabled="y" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="vehicle mode is " />
+    <filter enabled="y" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="init GLViewFragment" />
+    <filter enabled="y" excluding="n" description="" backColor="afeeee" type="matches_text" case_sensitive="n" regex="n" text="start flow flow info:" />
+    <filter enabled="y" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="onNewIntent: ActivityPaused" />
+    <filter enabled="n" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="showCurrentScreen =&gt;" />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="updateLabelwidget" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="--&gt;" />
+    <filter enabled="n" excluding="n" description="" backColor="9400d3" type="matches_text" case_sensitive="n" regex="n" text="navplugin" />
+    <filter enabled="y" excluding="n" description="" backColor="dcdcdc" type="matches_text" case_sensitive="n" regex="n" text="2064" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="click go item, isGoEnable:" />
+    <filter enabled="n" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="UIspeechService" />
+    <filter enabled="y" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="NavPluginBinder " />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="version:" />
+    <filter enabled="y" excluding="n" description="" backColor="ffff00" type="matches_text" case_sensitive="n" regex="n" text="02-14 21:57:54.321 11007 11007 I com.telenav.arp: Denali-HMI: com.telenav.arp.component.map.GLViewFrameMapListener$1: handle resume trip when start map render" />
+  </filters>
+</TextAnalysisTool.NET>

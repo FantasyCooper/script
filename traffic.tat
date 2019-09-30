@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TextAnalysisTool.NET version="2018-11-20" showOnlyFilteredLines="True">
+  <filters>
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="com.telenav" />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="vehicle mode is " />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="init GLViewFragment" />
+    <filter enabled="n" excluding="n" description="" backColor="afeeee" type="matches_text" case_sensitive="n" regex="n" text="start flow flow info:" />
+    <filter enabled="y" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="onNewIntent: ActivityPaused" />
+    <filter enabled="n" excluding="n" description="" backColor="90ee90" type="matches_text" case_sensitive="n" regex="n" text="showCurrentScreen =&gt;" />
+    <filter enabled="n" excluding="n" description="" backColor="dda0dd" type="matches_text" case_sensitive="n" regex="n" text="updateLabelwidget" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="--&gt;" />
+    <filter enabled="n" excluding="n" description="" backColor="9400d3" type="matches_text" case_sensitive="n" regex="n" text="navplugin" />
+    <filter enabled="n" excluding="n" description="" backColor="ffa500" type="matches_text" case_sensitive="n" regex="n" text="click go item, isGoEnable:" />
+    <filter enabled="n" excluding="n" description="" backColor="4169e1" type="matches_text" case_sensitive="n" regex="n" text="UIspeechService" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="version:" />
+    <filter enabled="y" excluding="n" description="" foreColor="ff0000" type="matches_text" case_sensitive="n" regex="n" text="ipsupported:" />
+    <filter enabled="y" excluding="n" description="" foreColor="006400" type="matches_text" case_sensitive="n" regex="n" text="network connection status" />
+    <filter enabled="n" excluding="n" description="" type="matches_text" case_sensitive="n" regex="n" text="P13NService_P13NService" />
+    <filter enabled="n" excluding="n" description="" foreColor="8b008b" type="matches_text" case_sensitive="n" regex="n" text="handle user" />
+    <filter enabled="y" excluding="n" description="" foreColor="800080" backColor="f0e68c" type="matches_text" case_sensitive="n" regex="n" text="Switching profile from" />
+    <filter enabled="y" excluding="n" description="" foreColor="006400" type="matches_text" case_sensitive="n" regex="n" text="InAppBillingService.getPurchases:" />
+    <filter enabled="y" excluding="n" description="" foreColor="006400" type="matches_text" case_sensitive="n" regex="n" text="traffic data initialization done" />
+    <filter enabled="y" excluding="n" description="" foreColor="800080" type="matches_text" case_sensitive="n" regex="n" text=" IpTraffic" />
+    <filter enabled="n" excluding="n" description="" foreColor="ff0000" type="matches_text" case_sensitive="n" regex="n" text="DEN-6838" />
+    <filter enabled="n" excluding="n" description="" foreColor="ff0000" type="matches_text" case_sensitive="n" regex="y" text="cloud_response.*traffic" />
+    <filter enabled="y" excluding="n" description="" foreColor="800000" type="matches_text" case_sensitive="n" regex="n" text="get feature list from app billing" />
+    <filter enabled="n" excluding="n" description="" foreColor="ff0000" type="matches_text" case_sensitive="n" regex="n" text="denalifeaturecollection" />
+  </filters>
+</TextAnalysisTool.NET>
